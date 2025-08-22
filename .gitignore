@@ -1,0 +1,40 @@
+# Catkin-specific files
+# See http://docs.ros.org/api/catkin/html/user_guide/suppressing_files.html
+build/
+devel/
+install/
+logs/
+.catkin_tools/
+
+# Other ROS-specific files
+CATKIN_IGNORE
+.catkin
+
+# Common generated files
+*.bag
+*.bag.active
+*.log
+*.so
+*.a
+*.pyc
+*.pyd
+
+# Common backup files
+*~
+*.swp
+*.swo
+*.bak
+*.orig
+
+# IDE and editor specific files
+.project
+.classpath
+.cproject
+.settings/
+.idea/
+.vscode/
+*.creator
+*.creator.user
+*.user
+*.kdev4
+.catkin_workspace

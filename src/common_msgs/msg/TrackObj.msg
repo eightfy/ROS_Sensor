@@ -1,0 +1,10 @@
+uint16 id
+uint16 type
+uint16 status
+float32 x
+float32 y
+float32 z
+float32 xmin
+float32 ymin
+float32 xmax
+float32 ymax
